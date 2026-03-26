@@ -26,8 +26,8 @@ This app allows multiple users to send and receive messages instantly with a cle
 ## 📸 Screenshots
 
 ### 💻 Chat Interface
-![Chat UI](./frontend/screenshots/1.png)
-![Chat UI 2](./frontend/screenshots/2.png)
+![Chat UI](./screenshots/1.png)
+![Chat UI 2](./screenshots/2.png)
 ---
 
 ## ⚙️ Installation & Setup
