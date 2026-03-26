@@ -9,8 +9,6 @@ This app allows multiple users to send and receive messages instantly with a cle
 
 ✨ Real-time messaging using Socket.io  
 👥 Multi-user chat support  
-⌨️ Typing indicator  
-🕒 Message timestamps  
 🎨 Modern UI with Tailwind CSS  
 📱 Responsive design  
 
