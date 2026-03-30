@@ -1,6 +1,6 @@
 # 💬 Real-Time Chat App
 
-A modern real-time chat application built using **React.js, Node.js, Express, and Socket.io** 🚀  
+A modern real-time chat application built using **React.js, Node.js, Express, and Socket.io** 
 This app allows multiple users to send and receive messages instantly with a clean and responsive UI.
 
 ---
